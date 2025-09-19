@@ -1,4 +1,52 @@
-#下载“OSU4X”软件和手册，开始使用键盘吧！
+    #Download the "OSU4X" software and manual to start using the keyboard!
+            
+#
+    
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
 
  
             
