@@ -1,5 +1,5 @@
     #The software only supports Windows.
-    #Download the "OSU4X" software and manual to start using the keyboard!
+    #Download the "OSU4X（4.4）" software and manual to start using the keyboard!
             
 #
     
