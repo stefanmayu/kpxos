@@ -1,8 +1,8 @@
-    #The software only supports Windows.
+    
     #Download the software and manual to start using the keyboard!
      markdown            
-[Click to download](https://github.com/stefanmayu/kpxos/raw/refs/heads/main/JPX_ver6.2.2.zip)       
-#
+[Click to download Windows software](https://github.com/stefanmayu/kpxos/raw/refs/heads/main/JPX_ver6.2.2.zip)       
+[Click to download Macbook software](https://github.com/stefanmayu/kpxos/raw/refs/heads/main/JPX6.2.zip) 
     
             
             
